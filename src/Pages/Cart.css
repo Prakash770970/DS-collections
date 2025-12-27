@@ -1,0 +1,39 @@
+.cart {
+    color: rgb(37, 9, 90);
+  max-width: 1800px;
+  margin: 60px auto;
+  padding: 20px;
+  background-image: url('https://images.unsplash.com/photo-1704819168072-f8192ed3caf0?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-attachment: fixed; background-size: cover; background-repeat: no-repeat;
+  height: 500px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+td {
+  background-color: #fff;
+}
+.cart button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 20px;
+}
+.color button:hover{
+    background-color: #fd910d;
+}

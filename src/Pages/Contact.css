@@ -1,0 +1,72 @@
+.contact{
+    margin-left: 400px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 75vh;
+    line-height: 50px;
+   
+     /* background-image: url("https://www.nike.com.kw/dw/image/v2/BDVB_PRD/on/demandware.static/-/Sites-akeneo-master-catalog/default/dwb530d486/nk/68c/b/6/5/0/b/68cb650b_834c_4a7f_9bc6_f5d152a2a09c.jpg?sw=700&sh=700&sm=fit&q=100&strip=false");  */
+    }
+
+.form{
+    
+    max-width: 600px;
+    width: 100%;
+    background-color: #333;
+    padding: 25px 25px 30px;
+    border-radius: 8px;
+    box-shadow: tan;
+    color: #f7ecec;
+    margin: 25px;
+}
+form.h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+form.input-box{
+    margin-top: 20px;
+}
+
+.input-box .field {
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: 2px solid #ddd;
+    outline: none;
+    border-radius: 6px;
+    padding: 15px;
+    font-size: 16px;
+    color: #333;
+    margin-top: 8px;
+} 
+.input-box .mess{
+    height: 200px;
+    resize: none;
+}
+
+form button{
+    width: 100px;
+    height: 55px;
+    background: #ddd;
+    border: none;
+    border-radius: 6px;
+    box-shadow: navy;
+    cursor: pointer;
+    font-size: 16px;
+    color: aliceblue;
+    font-weight: 500;
+    margin-top: 25px;
+    transition: .5s;
+}
+form button:hover{
+    background: #0ff203;
+}
+.fg{
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/w_906,c_limit/wbxs3ifhdxjhmxpshxct/nike-vaporfly-featuring-the-new-vaporfly-next.jpg");
+   height: 800px;
+  width: 700px;
+     
+}

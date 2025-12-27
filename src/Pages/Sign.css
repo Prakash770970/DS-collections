@@ -1,0 +1,42 @@
+.aye{
+   max-width: 100%;
+  height: 100px;
+  margin: 0 auto;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  line-height:60px
+}
+.aye h1{
+     color: #0c0404;
+     margin-left: 5px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.aye input{
+    
+    font-size: 18px;
+    margin-inline-start: 50px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    background-color: rgb(134, 250, 57);
+    margin-top: 10px;
+}
+
+.aye button{
+   margin-left: 60px;
+  height: 60px;
+  padding: 15px ;
+  background-color: #160303;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 750px;
+    
+}
+.aye button:hover{
+    background: #1cb114;
+} 
